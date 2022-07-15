@@ -108,7 +108,7 @@ author:
   avatar           : "/image/profile/profile.jpg"
   bio              : "DS 스티디용 블로그"
 #   location         : ""
-  email            :
+  email            : "2110016@okfngroup.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
