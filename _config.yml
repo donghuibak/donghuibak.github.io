@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "DDT Study"
+title                    : "DS Study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "토니"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://donghuibak.github.io"
+url                      : "https://donghuibak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "https://github.com/donghuibak/donghuibak.github.io"
+repository               : "https://github.com/donghuibak/donghuibak.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "토니"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : ""
+  bio              : "DS 스티디용 블로그"
+#   location         : ""
   email            :
   links:
     - label: "Email"
