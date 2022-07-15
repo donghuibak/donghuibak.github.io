@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "토니"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/image/profile/profile.jpg"
   bio              : "DS 스티디용 블로그"
 #   location         : ""
   email            :
