@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "DS"
+title                    : "Data Science study room"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "토니"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "토니"
   avatar           : "/image/profile/profile.jpg"
-  bio              : "DS 스티디용 블로그"
+  bio              : "사기꾼이 되기 싫어 공부하는 Data analyst(wanna be scientist)"
 #   location         : ""
-  email            : "2110016@okfngroup.com"
+  email            : "dh.tonybak@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:2110016@okfngroup.com
+#       url: dh.tonybak@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
