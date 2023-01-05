@@ -20,7 +20,7 @@ title                    : "One small leap for mankind"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "토니"
-description              : "An amazing website."
+description              : "대한민국 정치&사회 데이터 분석 블로그"
 url                      : "https://donghuibak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/donghuibak/donghuibak.github.io"
@@ -290,3 +290,10 @@ defaults:
       comments: # true
       share: true
       related: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
