@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Data Science study room"
+title                    : "One small leap for mankind"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "토니"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "토니"
   avatar           : "/image/profile/profile.jpg"
-  bio              : "사기꾼이 되기 싫어 공부하는 Data analyst(wanna be scientist)"
+  bio              : "No sibal keep going"
 #   location         : ""
   email            : "dh.tonybak@gmail.com"
   links:
