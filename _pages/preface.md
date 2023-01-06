@@ -1,12 +1,9 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: _pages
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+permalink: /preface/
+title: "Preface"
+toc: false
+toc_sticky: false
+toc_label: 
 ---
 
 내가 하고 싶은 일을 하기 위해,  
