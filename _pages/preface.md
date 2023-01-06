@@ -1,10 +1,12 @@
 ---
-permalink: /Preface/
-title: "Preface"
-layout: single
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 내가 하고 싶은 일을 하기 위해,  
