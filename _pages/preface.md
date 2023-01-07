@@ -1,12 +1,9 @@
 ---
 permalink: /preface/
-title: "Preface"
+title: "You love what you find time to do."
 toc: false
 toc_sticky: false
 toc_label: "MYSELF"
 ---
 
-내가 하고 싶은 일을 하기 위해,  
-완벽을 목표로 하지 말고  
-하루에 한 줄의 코드라도 입력하는 것을 목표로  
-테스트 테스트
+우리가 뽑은 정치인들이 어떤 행동을 하는지 알 수 있다면 사회가 더 좋은 방향으로 나아갈 것이라 믿습니다.
